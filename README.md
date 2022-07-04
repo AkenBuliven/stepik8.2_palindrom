@@ -1,0 +1,1 @@
+# stepik8.2_palindrom
